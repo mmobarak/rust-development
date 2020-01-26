@@ -11,6 +11,7 @@ Notes while learning Rust and it's development practices
 * [User Forum](https://users.rust-lang.org/)
 * [crates.io Rust package registry](crates.io)
 * [Jetbrains Rust Plugin](https://plugins.jetbrains.com/plugin/8182-rust)
+  * *Boo! No Debugger - Requires CLion*
 
 ## Dev Setup
 * While I do like to manage my installs with Homebrew, it seems like most folks are just running the downloadable installation script, per [Install Rust](https://www.rust-lang.org/tools/install).
